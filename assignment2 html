@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+    <head>
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>Graph</title>
+        <meta content="background-image, img, COMP213" name="keywords">
+        <link href="Assignment22.css" rel="stylesheet" type="text/css">
+    </head>
+
+<body>
+        <div class="flexbox">
+
+
+        <div class="bar" style="height:100px;" data-name="Vbar1" title="Graph 50%"></div>
+        <div class="bar" style="height:140px;" data-name="Vbar2" title="Graph 70%"></div>
+        <div class="bar" style="height:200px;"  data-name="Vbar3" title="Graph 100%"></div>
+        <div class="bar" style="height:80px;" data-name="Vbar4" title="Graph 40%"></div>
+        <div class="bar" style="height:120px;" data-name="Vbar5" title="Graph 60%"></div>
+        </div>
+
+
+        </div>
+
+        <br>
+        <div class="flexbox2">
+
+            <div class="bar2" style="width:500px;" data-name="Hbar" title="Graph 50%"></div>
+            <div class="bar2" style="width:700px;" data-name="Hbar2" title="Graph 70%"></div>
+            <div class="bar2" style="width:1000px;"  data-name="Hbar3" title="Graph 100%"></div>
+            <div class="bar2" style="width:200px;" data-name="Hbar4" title="Graph 20%"></div>
+            <div class="bar2" style="width:400px;" data-name="Hbar5" title="Graph 40%"></div>
+
+
+        </div>
+    </body>
+    </html>
