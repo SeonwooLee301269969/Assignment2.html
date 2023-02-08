@@ -1,0 +1,35 @@
+.bar{
+width:60px;
+align-self: flex-end;
+width: 120px;
+background-color:#f2ffa7;
+border-radius: 4px;
+border: 1px solid black;
+border-radius: 4px;
+}
+
+.flexbox{
+    display: flex;
+    gap: 50px;
+    background-color: rgb(216, 216, 216);
+    padding: 20px;
+}
+
+.bar2{
+    height:60px;
+    background-color:#f2ffa7;
+border-radius: 4px;
+border: 1px solid black;
+border-radius: 4px;
+}
+
+
+.flexbox2{
+
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    background-color: rgb(216, 216, 216);
+    padding: 20px
+}
+
